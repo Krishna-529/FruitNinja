@@ -1,0 +1,133 @@
+/* Frame 2 */
+
+position: relative;
+width: 1440px;
+height: 900px;
+
+background: #F8C45F;
+
+
+/* Resized_Fruit_Ninja_Background_1440x900 1 */
+
+position: absolute;
+width: 1440px;
+height: 900px;
+left: 0px;
+top: 0px;
+
+background: url(Resized_Fruit_Ninja_Background_1440x900.png);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 241px;
+height: 153px;
+left: 30px;
+top: 0px;
+
+background: rgba(217, 217, 217, 0.02);
+
+
+/* Group 1 */
+
+position: absolute;
+width: 315px;
+height: 62px;
+left: 1140px;
+top: 0px;
+
+
+
+/* Player */
+
+position: absolute;
+width: 185px;
+height: 48px;
+left: 1205px;
+top: 7px;
+
+font-family: 'Irish Grover';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+
+color: #FFB800;
+
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 315px;
+height: 62px;
+left: 1140px;
+top: 0px;
+
+background: #131718;
+opacity: 0.39;
+border: 1px solid #000000;
+filter: blur(2px);
+
+
+/* apple 1 */
+
+position: absolute;
+width: 66px;
+height: 66px;
+left: 409px;
+top: 669px;
+
+background: url(apple.png);
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1250px;
+height: 625px;
+left: 95px;
+top: 153px;
+
+background: #131718;
+opacity: 0.83;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* background2 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1250px;
+height: 625px;
+left: 95px;
+top: 153px;
+
+background: url(background2.jpg);
+opacity: 0.75;
+border: 5px solid #E67505;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* sword 1 */
+
+position: absolute;
+width: 57.91px;
+height: 111px;
+left: 1306px;
+top: 687px;
+
+background: url(sword);
+transform: rotate(90deg);

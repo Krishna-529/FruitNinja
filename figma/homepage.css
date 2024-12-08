@@ -1,0 +1,183 @@
+/* Frame 1 */
+
+position: relative;
+width: 1440px;
+height: 900px;
+
+background: #F8C45F;
+
+
+/* Resized_Fruit_Ninja_Background_1440x900 1 */
+
+position: absolute;
+width: 1440px;
+height: 900px;
+left: 0px;
+top: 0px;
+
+background: url(Resized_Fruit_Ninja_Background_1440x900.png);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 241px;
+height: 153px;
+left: 30px;
+top: 0px;
+
+background: rgba(217, 217, 217, 0.02);
+
+
+/* Group 2 */
+
+position: absolute;
+width: 667px;
+height: 617px;
+left: calc(50% - 667px/2 - 0.5px);
+top: calc(50% - 617px/2 - 0.5px);
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 667px;
+height: 617px;
+left: 386px;
+top: 141px;
+
+background: #131718;
+opacity: 0.73;
+border: 1px solid #000000;
+filter: blur(2px);
+
+
+/* Play */
+
+position: absolute;
+width: 259px;
+height: 48.39px;
+left: 601px;
+top: 244px;
+
+font-family: 'Irish Grover';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+/* identical to box height */
+text-align: center;
+
+color: #FFB800;
+
+border: 1px solid #000000;
+
+
+/* How to play */
+
+position: absolute;
+width: 259px;
+height: 44px;
+left: 601px;
+top: 490px;
+
+font-family: 'Irish Grover';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+text-align: center;
+
+color: #FFB800;
+
+border: 1px solid #000000;
+
+
+/* Leaderboard */
+
+position: absolute;
+width: 259px;
+height: 44.36px;
+left: 579px;
+top: 369px;
+
+font-family: 'Irish Grover';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #FFB800;
+
+border: 1px solid #000000;
+
+
+/* Game Zone */
+
+position: absolute;
+width: 259px;
+height: 44.36px;
+left: 601px;
+top: 611px;
+
+font-family: 'Irish Grover';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #FFB800;
+
+border: 1px solid #000000;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 315px;
+height: 62px;
+left: 1140px;
+top: 0px;
+
+
+
+/* Player */
+
+position: absolute;
+width: 185px;
+height: 48px;
+left: 1205px;
+top: 7px;
+
+font-family: 'Irish Grover';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+
+color: #FFB800;
+
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 315px;
+height: 62px;
+left: 1140px;
+top: 0px;
+
+background: #131718;
+opacity: 0.39;
+border: 1px solid #000000;
+filter: blur(2px);
